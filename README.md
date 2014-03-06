@@ -7,6 +7,8 @@ board that supports 3.3v power and serial,
 and Bluetooth 4.0 LTE.
   
 ### NECESSARY CONNECTION:
+![Pin Out Diagram][http://i.imgur.com/Ys8g9kk.png]
+
     Connector: 2.5mm (3/32") TRRS Jackplug
     Pinout:
       Tip     Pin1/RX1
